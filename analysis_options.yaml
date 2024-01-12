@@ -1,0 +1,11 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    avoid_print: flase
+    prefer_const_constructors_in_immutables: flase
+    prefer_const_constructors: flase
+    prefer_const_literals_to_create_immutables: flase
+    unnecessary_breaks: true
+    use_key_in_widget_constructor: flase
+    
